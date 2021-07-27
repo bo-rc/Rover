@@ -1,0 +1,13 @@
+{
+    "channelMap": {
+        "throttle": 2,
+        "steer": 0,
+        "cmd": 7,
+        "mode": 6,
+        "mode_aux": 4,
+        "shutdown": 5,
+        "throttle_output": 2,
+        "steer_output": 0,
+        "steer_trim": -0.12
+    }
+}

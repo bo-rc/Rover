@@ -1,0 +1,7 @@
+// local pose determined by localization using local frame
+struct NavPose2d_
+{
+    float x;
+    float y;
+    float yaw;
+};

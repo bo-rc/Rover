@@ -1,0 +1,6 @@
+struct Velocity3d_
+{
+    float x;
+    float y;
+    float z;
+};

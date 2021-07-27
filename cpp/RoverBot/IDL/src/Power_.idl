@@ -1,0 +1,7 @@
+struct Power_
+{
+    float boardVolt;
+    float railVolt;
+    float batVolt;
+    float batCurrent;
+};

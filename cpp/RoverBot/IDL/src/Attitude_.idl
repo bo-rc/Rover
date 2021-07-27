@@ -1,0 +1,7 @@
+// attitude euler angles
+struct Attitude_
+{
+    float roll;
+    float pitch;
+    float yaw;
+};

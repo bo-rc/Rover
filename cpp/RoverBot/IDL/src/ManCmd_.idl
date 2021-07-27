@@ -1,0 +1,5 @@
+struct ManCmd_
+{
+    float steer;
+    float throttle;
+};

@@ -1,0 +1,7 @@
+// local pose determined by localization using local frame
+#include "NavPose2d_.idl"
+
+struct Route_
+{
+    sequence<NavPose2d_> m_waypoints;
+};

@@ -1,0 +1,3 @@
+struct OpCmd_ {
+    string OpCmd;
+};

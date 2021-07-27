@@ -1,0 +1,5 @@
+struct ActCmd_
+{
+    float steer;
+    float throttle;
+};

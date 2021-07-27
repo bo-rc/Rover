@@ -1,0 +1,15 @@
+struct VehicleState_
+{
+    float x;
+    float y;
+    float z;
+    float vx;
+    float vy;
+    float vz;
+    float roll;
+    float pitch;
+    float yaw;
+    float vRoll;
+    float vPitch;
+    float vYaw;
+};
